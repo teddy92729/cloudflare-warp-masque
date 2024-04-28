@@ -1,12 +1,16 @@
 # cloudflare-warp-masque
-依照步驟啟用masque協議的cloudflare warp
 
-需要一支zero trust帳號
+依照步驟啟用 masque 協議的 cloudflare warp
 
-更新到最新版cloudflare warp
+需要一支 zero trust 帳號
 
-windows下將mdm.xml下載到```%ProgramData%\Cloudflare```
+更新到最新版 cloudflare warp
 
-登入zero trust
+-   Windows
+    -   將 mdm.xml 下載到 `C:\ProgramData\Cloudflare`
+-   Linux
+    -   將 mdm.xml 下載到 `/var/lib/cloudflare-warp`
+
+登入 zero trust
 
 完
