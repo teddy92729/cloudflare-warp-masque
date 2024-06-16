@@ -2,7 +2,7 @@
 
 依照步驟啟用 masque 協議的 cloudflare warp
 
-需要一支 zero trust 帳號
+(optional) 需要一支 zero trust 帳號
 
 更新到最新版 cloudflare warp
 
@@ -19,7 +19,7 @@
 
 Follow the steps below to enable masque protocol of cloudflare warp.
 
-Require a zero trust account.
+(optional) Require a zero trust account.
 
 Update to the latest cloudflare warp.
 
